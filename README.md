@@ -1,4 +1,4 @@
-# anandabilal.github.io
+# AdventureZero
 
 AdventureZero is a zero-player game where you can start an adventure and let the character kill monsters and gain EXP.
 The more EXP your character gains, the more level he will get, and the more level he gets, the more powerful he'd become.
